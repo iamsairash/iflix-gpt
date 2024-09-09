@@ -1,9 +1,9 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
     <div>
-      <h2 className='text-3xl font-sans text-green-600'>iflix-gpt</h2>
+      <Body/>
     </div>
   );
 }

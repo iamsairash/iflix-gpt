@@ -1,7 +1,9 @@
 #Iflix-gpt
 -create reacte app
 -configured tailwind css
-
+-Header
+-login form
+-signUp form
 
 #Features 
 
